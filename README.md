@@ -2,6 +2,8 @@
 
 ## Project Description : To be updated 
 
+Here's a doc to keep track of science questions and references for the project. https://docs.google.com/document/d/1VQCNvp4jUJdLm_2upTbkv76LVpgsVsIZpFVB0lSMB9o/edit
+
 [This template](https://github.com/clivar-bootcamp2022/clivar-bootcamp2022-template) provides a starting point for [CLIVER bootcamp](https://www.clivar.org/events/arctic-processes-cmip6-bootcamp) work groups.
 
 ### What's included?
