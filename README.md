@@ -1,10 +1,12 @@
-# CLIVAR bootcamp 2022 Project Template
+# CLIVAR bootcamp 2022 Project : Heat and freshwater transport across Arctic Gateways and the state of the Sub-Polar Gyre and the AMOC in CMIP6
+
+## Project Description : To be updated 
 
 [This template](https://github.com/clivar-bootcamp2022/clivar-bootcamp2022-template) provides a starting point for [CLIVER bootcamp](https://www.clivar.org/events/arctic-processes-cmip6-bootcamp) work groups.
 
 ### What's included?
 
-1. `notebooks`: a place for storing Jupyter Notebooks.  
+1. `notebooks`: a place for storing Jupyter Notebooks. We can update the notebooks as and when required.  
 1. `README.md`: this document - consider modifying to make it a description of your project on GitHub.
 1. `LICENSE`: a default (MIT) license file for your project. You can change this if you feel the need.
 
@@ -17,7 +19,7 @@ Project leads should follow the next four steps. This only needs to be done once
 3. Name your work group's project 
 4. Provide a brief description
 5. Tell your teammates where to find your repository and tell them to "Fork" the project.
-
+xa
 Once the initial setup is done, everyone will want to clone the repository onto the compute system they plan to use for the hackathon.
 
 1. Open a JupyterLab session on the system you plan to use.  
